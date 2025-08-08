@@ -113,7 +113,7 @@ Project Chetna spans the **entire continuum of neonatal care: facility-based mon
 <div align="center">
   <h3>Project Chetna Pitch Video</h3>
   <a href="https://youtu.be/A3WzJfwMe8Q">
-    <img src=" <img width="1410" height="798" alt="Screenshot 2025-08-07 023046" src="https://github.com/user-attachments/assets/e6034556-f72e-4d13-95ad-ca588bd7fe8d" />
+    <img src="<img width="1410" height="798" alt="Screenshot 2025-08-07 023046" src="https://github.com/user-attachments/assets/e6034556-f72e-4d13-95ad-ca588bd7fe8d" />
    " alt="Project Chetna Video" width="600" style="border-radius: 10px;" />
   </a>
   <p>Click the image above to watch our video and see the ecosystem in action!</p>
@@ -126,7 +126,7 @@ Project Chetna spans the **entire continuum of neonatal care: facility-based mon
 <div align="center">
   <h3>Project Chetna Presentation</h3>
   <a href="https://drive.google.com/file/d/1smzdDII7-68j9r2_eIdBFnCwukfWsOIP/view?usp=drive_link">
-    <img src="https://img.shields.io/badge/Download_Presentation-2023-blue?style=for-the-badge&logo=googledocs&logoColor=white" alt="Download Project Chetna Presentation" />
+    <img src="https://img.shields.io/badge/Download_Presentation-2025-blue?style=for-the-badge&logo=googledocs&logoColor=white" alt="Download Project Chetna Presentation" />
   </a>
   <p>Click the button above for our detailed pitch and technical overview.</p>
 </div>
