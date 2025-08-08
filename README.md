@@ -1,5 +1,6 @@
 # 👶 Project Chetna: A Holistic Neonatal Care Ecosystem for India 🇮🇳
 
+## Youtube Link and Detailed Explanation Document Available Below (Please Refer for Better Explanation)
 ---
 
 ## ⭐ Executive Summary: Tackling India’s Neonatal Health Crisis With Frugal Innovation
@@ -118,6 +119,16 @@ Project Chetna spans the **entire continuum of neonatal care: facility-based mon
     <img src="https://github.com/user-attachments/assets/e6034556-f72e-4d13-95ad-ca588bd7fe8d" alt="Project Chetna Video" width="600" />
   </a>
   <p>Click the image above to watch our video and see the ecosystem in action!</p>
+</div>
+
+---
+## 📄 Download Our Complete Detailed Explanation Document
+
+<div align="center">
+  <a href="https://docs.google.com/document/d/1u1up_-2GGQTkPxX-QOre29Eq4_kD8IMtfRP3MXqCwrE/edit?usp=sharing" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Download_Presentation-2025-blue?style=for-the-badge&logo=googledocs" alt="Download DrishtiNet Pitch Deck" />
+    <p><strong>Access detailed Explanation Decument Above.</strong></p>
+  </a>
 </div>
 
 ---
