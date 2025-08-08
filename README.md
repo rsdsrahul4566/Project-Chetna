@@ -110,14 +110,6 @@ Project Chetna spans the **entire continuum of neonatal care: facility-based mon
 
 ## 🎥 Watch Our Pitch & Explore Further
 
-<div align="center">
-  <h3>Project Chetna Pitch Video</h3>
-  <a href="https://youtu.be/A3WzJfwMe8Q">
-    <img src="<img width="1410" height="798" alt="Screenshot 2025-08-07 023046" src="https://github.com/user-attachments/assets/e6034556-f72e-4d13-95ad-ca588bd7fe8d" />
-   " alt="Project Chetna Video" width="600" style="border-radius: 10px;" />
-  </a>
-  <p>Click the image above to watch our video and see the ecosystem in action!</p>
-</div>
 
 
 <div align="center">
